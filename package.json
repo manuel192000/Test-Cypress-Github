@@ -16,7 +16,7 @@
     "url": "https://github.com/manuel192000/Test-Cypress-Github/issues"
   },
   "homepage": "https://github.com/manuel192000/Test-Cypress-Github#readme",
-  "dependencies": {
+  "devDependencies": {
     "cypress": "^12.17.3"
   }
 }
