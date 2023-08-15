@@ -2,10 +2,10 @@ name: Cypress Tests
 on: 
   push:
     branches:
-      -main 
+      - 'main' 
       
   schedule:
-      - cron: '55 20 14 8 1'
+    - cron: '02 21 14 8 1'
 
 jobs:
  Cypress-Test:
