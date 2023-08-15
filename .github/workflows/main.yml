@@ -5,7 +5,7 @@ on:
       - 'main' 
       
   schedule:
-    - cron: '02 21 14 8 1'
+    - cron: '05 21 14 8 1'
 
 jobs:
  Cypress-Test:
